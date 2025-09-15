@@ -1,6 +1,6 @@
 {
-  "version": "v20.13.41 (patches 5.36.0)",
-  "versionCode": 4,
-  "zipUrl": "https://github.com/shockspamer/yu/releases/download/4/youtube-revanced-magisk-v20.13.41-all.zip",
+  "version": "v20.13.41 (patches 5.37.0)",
+  "versionCode": 5,
+  "zipUrl": "https://github.com/shockspamer/yu/releases/download/5/youtube-revanced-magisk-v20.13.41-all.zip",
   "changelog": "https://raw.githubusercontent.com/shockspamer/yu/update/build.md"
 }
