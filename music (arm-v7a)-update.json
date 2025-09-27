@@ -1,6 +1,6 @@
 {
-  "version": "v8.10.52 (patches 5.40.0)",
-  "versionCode": 8,
-  "zipUrl": "https://github.com/shockspamer/yu/releases/download/8/music-revanced-magisk-v8.10.52-arm-v7a.zip",
+  "version": "v8.10.52 (patches 5.41.0)",
+  "versionCode": 9,
+  "zipUrl": "https://github.com/shockspamer/yu/releases/download/9/music-revanced-magisk-v8.10.52-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/shockspamer/yu/update/build.md"
 }
