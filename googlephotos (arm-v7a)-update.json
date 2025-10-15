@@ -1,6 +1,6 @@
 {
-  "version": "v7.49.0.816946145 (patches 5.43.0)",
-  "versionCode": 11,
-  "zipUrl": "https://github.com/shockspamer/yu/releases/download/11/googlephotos-revanced-magisk-v7.49.0.816946145-arm-v7a.zip",
+  "version": "v7.49.0.816946145 (patches 5.43.1)",
+  "versionCode": 12,
+  "zipUrl": "https://github.com/shockspamer/yu/releases/download/12/googlephotos-revanced-magisk-v7.49.0.816946145-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/shockspamer/yu/update/build.md"
 }
